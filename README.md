@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)]
+[![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)]
 <h1 align="center">Hi 👋, I'm Xavier Dias</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/9332892/media/7139d5a1922967dd33666e884387eca4.png">
