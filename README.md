@@ -30,10 +30,13 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-## Connect with me ^_^ 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/xavierdias07/)
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100017097121241/)
 <br>
+
+## Connect with me ^_^ 
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" /><a href="https://instagram.com/xavierdias07">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /><a href="https://www.facebook.com/profile.php?id=100017097121241">
+<br>
+   <br>
 
 ## Tech Stack 🚀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
