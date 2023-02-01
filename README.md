@@ -1,16 +1,35 @@
-[![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)]
-<h1 align="center">Hi 👋, I'm Xavier Dias</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/9332892/media/7139d5a1922967dd33666e884387eca4.png">
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **xavieredias07@gmail.com**
-
-<br>
-
+<div align=center>
+   <a href="https://github.com/Xavi007">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h1 align="center"><a href="https://github.com/Xavi007"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
+   <a href="https://github.com/Xavi007">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;" />
+   </a>
+</h1>
+<div align=center>
+   <a href="https://github.com/Xavi007" target="_blank">
+   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+   <h4>
+      🌱 I’m mostly interested in:
+      <a href="https://github.com/Xavi007">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
+      <br>
+      👯 I’m looking to collaborate on:
+      <a href="https://github.com/Xavi007">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
+      <br>
+      💬 Talk to me all about:
+      <a href="https://github.com/Xavi007">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
+   </h4>
+</div>
+<div align=center>
+   <a href="https://github.com/Xavi007">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
 ## Connect with me ^_^ 
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/xavierdias07/)
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100017097121241/)
