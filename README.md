@@ -33,9 +33,10 @@
 <br>
 
 ## Connect with me ^_^ 
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" /><a href="https://instagram.com/xavierdias07">
-   </div>
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /><a href="https://www.facebook.com/profile.php?id=100017097121241">
+<a href="https://instagram.com/xavierdias07">
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.facebook.com/profile.php?id=100017097121241">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
 <br>
    <br>
 
