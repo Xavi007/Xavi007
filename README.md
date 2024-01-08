@@ -70,5 +70,5 @@
 
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/Xavi007/count.svg)
 
